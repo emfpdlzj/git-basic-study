@@ -1,8 +1,10 @@
-# hello-world
+# git-basic-study
+
 git 및 github 기초 공부를 하였습니다.  
+
 ---
-학습키워드  
-sourcetree, branch, merge, pull, reset, revert, stash, rebase
+ 학습키워드  
+> sourcetree, branch, merge, pull, reset, revert, stash, rebase
 ---
 참고자료: 인프런 호눅스님의 Git과 Github 시작하기 강의
 
